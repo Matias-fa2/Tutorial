@@ -1,1 +1,1 @@
-print('lindao')
+print('m')
